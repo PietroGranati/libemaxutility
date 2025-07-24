@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "it.libemax.utility.module-release-40:/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "it.libemax.utility.module-material-1.12.0-30:/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/layout-sw600dp-v13/mtrl_layout_snackbar.xml",
+        "source": "it.libemax.utility.module-material-1.12.0-30:/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
+    }
+]

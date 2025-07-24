@@ -1,0 +1,1 @@
+/Users/pietrogranati/Documents/Appcelerator_Studio_Workspace/1_Creazione_Moduli/LibemaxUtils/android/build/module/build/intermediates/cxx/Release/4z2t5c6i/obj/local/x86

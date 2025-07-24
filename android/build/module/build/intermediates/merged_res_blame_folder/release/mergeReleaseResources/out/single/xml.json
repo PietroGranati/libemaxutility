@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "it.libemax.utility.module-release-40:/xml/titanium_ui_vertical_nested_scrollview.xml",
+        "source": "it.libemax.utility.module-titanium-12.8.0-13:/xml/titanium_ui_vertical_nested_scrollview.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/xml/titanium_ui_horizontal_nested_scrollview.xml",
+        "source": "it.libemax.utility.module-titanium-12.8.0-13:/xml/titanium_ui_horizontal_nested_scrollview.xml"
+    }
+]

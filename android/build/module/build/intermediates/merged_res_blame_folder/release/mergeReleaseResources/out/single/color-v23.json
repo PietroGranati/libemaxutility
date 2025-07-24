@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_tint_default.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_tint_spinner.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_tint_edittext.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_color_highlight_material.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_tint_switch_track.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "it.libemax.utility.module-release-40:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "it.libemax.utility.module-appcompat-1.7.0-32:/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

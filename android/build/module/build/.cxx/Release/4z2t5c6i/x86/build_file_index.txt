@@ -1,0 +1,1 @@
+/Users/pietrogranati/Documents/Appcelerator_Studio_Workspace/1_Creazione_Moduli/LibemaxUtils/android/build/module/src/main/jni/Android.mk
